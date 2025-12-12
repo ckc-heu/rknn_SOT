@@ -37,3 +37,10 @@ I RKNN: [11:20:23.045] RKNN Model Information, version: 6, toolkit version: 2.3.
 
 **更多测试正在整理**
 ---
+
+
+## reference
+
+[rknn-toolkit2](https://github.com/rockchip-linux/rknn-toolkit2)  
+[SiamTracker](https://github.com/HonglinChu/SiamTrackers)
+[NanoTrack_RK3588_python](https://github.com/Try2ChangeX/NanoTrack_RK3588_python)
