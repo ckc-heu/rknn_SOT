@@ -14,7 +14,8 @@ I RKNN: [11:20:23.045] RKNN Model Information, version: 6, toolkit version: 2.3.
 | Tracker Name                          | Platform | Accuracy | Robustness | Lost Number | EAO   | FPS   |
 |--------------------------------------|----------|----------|------------|-------------|-------|-------|
 | `nanotrack_v3`                       | RK3588   | 0.569    | 0.187      | 40.0        | 0.431 |   112 |  
-| `nanotrack_v3_backbone255q`         | RK3576   | 0.560    | 0.187      | 40.0        | 0.405 |   x |  
+| `nanotrack_v3_backbone255q`          | RK3588   | 0.566    | 0.234      | 50.0        | 0.378 |   121 |  
+| `nanotrack_v3_backbone255q`         | RK3576   | 0.560    | 0.187      | 40.0        | 0.405 |   x1 |  
 | `nanotrack_v3`                      | RK3576   | 0.568    | 0.215      | 46.0        | 0.399 |   x |  
 | `nanotrack_v2`                   | RK3576   | 0.572    | 0.318      | 68.0        | 0.337 |   x |  
 | `nanotrack_v2_backbone255q`       | RK3576   | 0.556    | 0.337      | 72.0        | 0.312 |   x |  
@@ -29,6 +30,7 @@ I RKNN: [11:20:23.045] RKNN Model Information, version: 6, toolkit version: 2.3.
 | Tracker Name                     | Platform | Success | Precision | FPS   |
 |----------------------------------|----------|---------|-----------|-------|
 | `nanotrack_v3`                   | RK3588   | 0.671 | 0.886 | 112 |
+| `nanotrack_v3_backbone255q`          | RK3588   | 0.666   | 0.878     | 121 |
 | `nanotrack_v3`              | RK3576   | 0.666   | 0.880     | x |
 | `nanotrack_v3_backbone255q`          | RK3576   | 0.666   | 0.875     | x |
 | `nanotrack_v2`              | RK3576   | 0.645   | 0.846     | x |
