@@ -48,7 +48,7 @@ I RKNN: [11:20:23.045] RKNN Model Information, version: 6, toolkit version: 2.3.
 
 
 
-**更多测试正在整理**
+**更多测试和代码实现整理后放出**
 ---
 
 
