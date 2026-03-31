@@ -1,5 +1,32 @@
-在线免费测试网站https://frp-bus.com:49189/login访问密码请发邮件ckc8686@163.com
-![1](https://github.com/user-attachments/assets/0b912e25-dec3-46d1-8075-8b68daa7e26d)
+<br>
+
+<div align="center">
+
+# 🌐 在线免费测试服务
+
+<br>
+
+### 🔗 访问地址
+**https://frp-bus.com:49189/login**
+
+<br>
+
+### ⚠️ 重要提示
+**为了防止垃圾邮件机器人骚扰，访问密码需要通过邮件申请。**
+
+<br>
+
+### ✉️ 获取密码
+**请发送邮件至：ckc8686@163.com**  
+*(请在邮件中简单说明你的使用用途)*
+
+<br>
+
+---
+
+<br>
+
+</div>
 
 
 # 📊 NanoTrack 在 Rockchip RK3588 / RK3576 上的评估结果
