@@ -1,3 +1,7 @@
+在线免费测试网站https://frp-bus.com:49189/login访问密码请发邮件ckc8686@163.com
+![1](https://github.com/user-attachments/assets/0b912e25-dec3-46d1-8075-8b68daa7e26d)
+
+
 # 📊 NanoTrack 在 Rockchip RK3588 / RK3576 上的评估结果
 
 **系统环境**：Ubuntu 22.04  
