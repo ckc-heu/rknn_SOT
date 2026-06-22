@@ -1,23 +1,10 @@
 <br>
 
-<div align="center">
 
-# 🌐 在线免费测试服务
-
-<br>
-
-### 🔗 访问地址
-**https://frp-bus.com:49189/login**
-
-### ✉️ 获取密码
-**请发送邮件至：ckc8686@163.com**  
-**不要上传大于50mb的视频，处理视频时不要刷新页面，开法板最多同时处理两个，请耐心等待**
-<br>
 
 ---
 
 
-https://github.com/user-attachments/assets/24aa90c4-a731-4541-a196-2eb14e0eb44a
 
 
 <br>
